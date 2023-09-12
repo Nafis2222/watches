@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/HtVx27T/1.jpg",
+      "title": "The Art of Programming",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/59v0grf/boy1.png",
+      "posted_date": "2023-09-11",
+      "reading_time": "15 minutes",
+      "hashtags": ["programming", "coding", "technology"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/bWnDZrk/2.png",
+      "title": "Exploring the Universe",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/LPsMXPR/boy2.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": "20 minutes",
+      "hashtags": ["space", "science", "astronomy"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/wCLxmBH/3.png",
+      "title": "Healthy Eating Habits",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/2Z60mW5/girl1.jpg",
+      "posted_date": "2023-09-09",
+      "reading_time": "10 minutes",
+      "hashtags": ["health", "nutrition", "food"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/9YMy7w5/4.jpg",
+      "title": "Traveling the World",
+      "author": "Robert Brown",
+      "author_img": "https://i.ibb.co/yFnpCzS/girl2.jpg",
+      "posted_date": "2023-09-08",
+      "reading_time": "30 minutes",
+      "hashtags": ["travel", "adventure", "explore"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/HtVx27T/1.jpg",
+      "title": "Digital Marketing Strategies",
+      "author": "Emily Davis",
+      "author_img": "https://i.ibb.co/PwpxGvW/profile.png",
+      "posted_date": "2023-09-07",
+      "reading_time": "18 minutes",
+      "hashtags": ["marketing", "digitalmarketing", "strategy"]
+    }
+  ]
+  
