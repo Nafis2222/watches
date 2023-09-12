@@ -1,0 +1,39 @@
+[
+    {
+        "id": 101,
+        "name": "Widget A",
+        "price": 9.99,
+        "title": "Blue Widget",
+        "image_url": "https://ibb.co/z68Sh5J"
+      },
+      {
+        "id": 102,
+        "name": "Gadget X",
+        "price": 49.95,
+        "title": "Advanced Gadget",
+        "image_url": "https://ibb.co/z68Sh5J"
+      },
+      {
+        "id": 103,
+        "name": "Toolbox Set",
+        "price": 34.99,
+        "title": "Complete Toolbox Set",
+        "image_url": "https://ibb.co/z68Sh5J"
+      },
+      {
+        "id": 104,
+        "name": "Bookshelf",
+        "price": 79.99,
+        "title": "Wooden Bookshelf",
+        "image_url": "https://ibb.co/z68Sh5J"
+      },
+      {
+        "id": 105,
+        "name": "Smartphone",
+        "price": 299.99,
+        "title": "High-End Smartphone",
+        "image_url": "https://ibb.co/z68Sh5J"
+      }
+         
+      
+]
