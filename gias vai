@@ -1,0 +1,57 @@
+[
+    {
+        "ID": "12345",
+        "Name": "John Doe",
+        "Age": 28,
+        "Role": "Marketing Manager",
+        "Image": "https://i.ibb.co/59v0grf/boy1.png",
+        "Salary": "$60,000",
+        "Country": "United States",
+        "FacebookURL": "https://www.facebook.com/johndoe",
+        "Twitter": "@johndoe28"
+    },
+    {
+        "ID": "67890",
+        "Name": "Jane Smith",
+        "Age": 35,
+        "Role": "Software Engineer",
+        "Image": "https://i.ibb.co/LPsMXPR/boy2.jpg",
+        "Salary": "$80,000",
+        "Country": "Canada",
+        "FacebookURL": "https://www.facebook.com/janesmith",
+        "Twitter": "@janesmith35"
+    },
+    {
+        "ID": "23456",
+        "Name": "Emily Johnson",
+        "Age": 24,
+        "Role": "Graphic Designer",
+        "Image": "https://i.ibb.co/2Z60mW5/girl1.jpg",
+        "Salary": "$45,000",
+        "Country": "United Kingdom",
+        "FacebookURL": "https://www.facebook.com/emilyjohnson",
+        "Twitter": "@emily_designs"
+    },
+    {
+        "ID": "78901",
+        "Name": "David Lee",
+        "Age": 42,
+        "Role": "Sales Manager",
+        "Image": "https://i.ibb.co/yFnpCzS/girl2.jpg",
+        "Salary": "$75,000",
+        "Country": "Australia",
+        "FacebookURL": "https://www.facebook.com/davidlee",
+        "Twitter": "@david_sales"
+    },
+    {
+        "ID": "34567",
+        "Name": "Maria Garcia",
+        "Age": 31,
+        "Role": "Financial Analyst",
+        "Image": "https://i.ibb.co/PwpxGvW/profile.png",
+        "Salary": "$70,000",
+        "Country": "Spain",
+        "FacebookURL": "https://www.facebook.com/mariagarcia",
+        "Twitter": "@mariatheanalyst"
+    }
+]
