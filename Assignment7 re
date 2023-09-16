@@ -1,0 +1,74 @@
+[
+    {
+        "ID": 1,
+        "Image": "https://i.ibb.co/3f1gWPs/Rectangle-2.png",
+        "CourseName": "Introduction to Python Programming",
+        "Details": "Learn the basics of Python programming language.",
+        "Price": 49 ,
+        "Credit": 1
+    },
+    {
+        "ID": 2,
+        "Image": "https://i.ibb.co/51d0Wxc/Rectangle-2-1.png",
+        "CourseName": "Web Development Fundamentals",
+        "Details": "A beginner's guide to web development.",
+        "Price": 59 ,
+        "Credit": 2 
+    },
+    {
+        "ID": 3,
+        "Image": "https://i.ibb.co/Mc9Pj2T/Rectangle-2-2.png",
+        "CourseName": "Data Science with R",
+        "Details": "Explore data analysis and visualization with R.",
+        "Price": 69,
+        "Credit": 10 
+    },
+    {
+        "ID": 4,
+        "Image": "https://i.ibb.co/Zh8KVz5/Rectangle-2-3.png",
+        "CourseName": "Machine Learning Basics",
+        "Details": "Introduction to machine learning algorithms and concepts.",
+        "Price": 79,
+        "Credit": 5 
+    },
+    {
+        "ID": 5,
+        "Image": "https://i.ibb.co/jfYm6m1/Rectangle-2-4.png",
+        "CourseName": "Graphic Design Fundamentals",
+        "Details": "Learn the principles of graphic design and visual communication.",
+        "Price": 49,
+        "Credit": 5
+    },
+    {
+        "ID": 6,
+        "Image": "https://i.ibb.co/wWKg5Ck/Rectangle-2-5.png",
+        "CourseName": "Financial Planning and Investment",
+        "Details": "Master the art of financial planning and investment strategies.",
+        "Price": 89,
+        "Credit": 2
+    },
+    {
+        "ID": 7,
+        "Image": "https://i.ibb.co/hc0jSXn/Rectangle-2-6.png",
+        "CourseName": "Artificial Intelligence Essentials",
+        "Details": "Explore the fundamentals of AI and machine learning.",
+        "Price": 69,
+        "Credit": 4
+    },
+    {
+        "ID": 8,
+        "Image": "https://i.ibb.co/zr9X9mm/Rectangle-3.png",
+        "CourseName": "Digital Marketing Strategies",
+        "Details": "Learn effective digital marketing techniques and strategies.",
+        "Price": 59,
+        "Credit": 4
+    },
+    {
+        "ID": 9,
+        "Image": "https://i.ibb.co/3rMV87v/Rectangle-3-1.png",
+        "CourseName": "Business Ethics and Leadership",
+        "Details": "Understand the principles of ethical leadership in business.",
+        "Price": 49,
+        "Credit": 3 
+    }
+]
