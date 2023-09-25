@@ -1,134 +1,137 @@
 [
   {
     "id": 1,
-    "picture": "https://example.com/item1.jpg",
-    "title": "Fancy Watch",
-    "category": "Fashion",
-    "category_bg_color": "#ff5733",
+    "picture": "https://i.ibb.co/sv8SMp5/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg_color": "#0052FF33",
     "card_bg_color": "#0052FF26",
-    "text_button_bg_color": "#333333",
+    "text_button_bg_color": "#0052FF",
     "description": "A stylish and elegant wristwatch for any occasion.",
-    "price": 89.99
+    "price": 89
   },
   {
     "id": 2,
-    "picture": "https://example.com/item2.jpg",
-    "title": "Wireless Headphones",
-    "category": "Electronics",
-    "category_bg_color": "#5cb85c",
+    "picture": "https://i.ibb.co/Y33mdsz/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg_color": "#FF444A33",
     "card_bg_color": "#FF444A26",
-    "text_button_bg_color": "#333333",
-    "description": "High-quality wireless headphones with noise-canceling technology.",
-    "price": 149.99
+    "text_button_bg_color": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers c
+an create a positive and supportive learning environment for their students and challenge them to reach their full potential..",
+    "price": 149
   },
   {
     "id": 3,
-    "picture": "https://example.com/item3.jpg",
-    "title": "Vintage Leather Bag",
-    "category": "Fashion",
-    "category_bg_color": "#ff5733",
+    "picture": "https://i.ibb.co/YdqtLJN/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg_color": "#79C23F33",
     "card_bg_color": "#79C23F26",
-    "text_button_bg_color": "#333333",
+    "text_button_bg_color": "#79C23F",
     "description": "A classic leather bag with a vintage charm.",
-    "price": 129.99
+    "price": 129
   },
   {
     "id": 4,
-    "picture": "https://example.com/item4.jpg",
-    "title": "Smartphone",
-    "category": "Electronics",
-    "category_bg_color": "#5cb85c",
+    "picture": "https://i.ibb.co/s33S9bb/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg_color": "#F8714733",
     "card_bg_color": "#F8714726",
-    "text_button_bg_color": "#333333",
+    "text_button_bg_color": "#F87147",
     "description": "The latest smartphone with a high-resolution display and powerful camera.",
-    "price": 699.99
+    "price": 699
   },
   {
     "id": 5,
-    "picture": "https://example.com/item5.jpg",
-    "title": "Fitness Tracker",
-    "category": "Sports & Fitness",
-    "category_bg_color": "#428bca",
+    "picture": "https://i.ibb.co/s33S9bb/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg_color": "#F8714733",
     "card_bg_color": "#F8714726",
-    "text_button_bg_color": "#333333",
+    "text_button_bg_color": "#F87147",
     "description": "Track your fitness goals with this advanced fitness tracker.",
-    "price": 79.99
+    "price": 79
   },
   {
     "id": 6,
-    "picture": "https://example.com/item6.jpg",
-    "title": "Coffee Maker",
-    "category": "Home & Kitchen",
-    "category_bg_color": "#d9534f",
+    "picture": "https://i.ibb.co/YdqtLJN/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg_color": "#79C23F33",
     "card_bg_color": "#79C23F26",
-    "text_button_bg_color": "#333333",
+    "text_button_bg_color": "#79C23F",
     "description": "Brew the perfect cup of coffee with this coffee maker.",
-    "price": 49.99
+    "price": 49
   },
   {
     "id": 7,
-    "picture": "https://example.com/item7.jpg",
-    "title": "Laptop",
-    "category": "Electronics",
-    "category_bg_color": "#5cb85c",
+    "picture": "https://i.ibb.co/Y33mdsz/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg_color": "#FF444A33",
     "card_bg_color": "#FF444A26",
-    "text_button_bg_color": "#333333",
-    "description": "A high-performance laptop for work and entertainment.",
-    "price": 999.99
+    "text_button_bg_color": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers c
+an create a positive and supportive learning environment for their students and challenge them to reach their full potential..",
+    "price": 999
   },
   {
     "id": 8,
-    "picture": "https://example.com/item8.jpg",
-    "title": "Sneakers",
-    "category": "Fashion",
-    "category_bg_color": "#ff5733",
+    "picture": "https://i.ibb.co/sv8SMp5/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg_color": "#0052FF33",
     "card_bg_color": "#0052FF26",
-    "text_button_bg_color": "#333333",
+    "text_button_bg_color": "#0052FF",
     "description": "Stylish and comfortable sneakers for everyday wear.",
-    "price": 69.99
+    "price": 69
   },
   {
     "id": 9,
-    "picture": "https://example.com/item9.jpg",
-    "title": "Bluetooth Speaker",
-    "category": "Electronics",
-    "category_bg_color": "#5cb85c",
+    "picture": "https://i.ibb.co/sv8SMp5/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg_color": "#0052FF33",
     "card_bg_color": "#0052FF26",
-    "text_button_bg_color": "#333333",
+    "text_button_bg_color": "#0052FF",
     "description": "Portable Bluetooth speaker with rich sound quality.",
-    "price": 59.99
+    "price": 59
   },
   {
     "id": 10,
-    "picture": "https://example.com/item10.jpg",
-    "title": "Gourmet Chocolate",
-    "category": "Food & Drinks",
-    "category_bg_color": "#f0ad4e",
+    "picture": "https://i.ibb.co/Y33mdsz/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg_color": "#FF444A33",
     "card_bg_color": "#FF444A26",
-    "text_button_bg_color": "#333333",
-    "description": "Indulge in the finest gourmet chocolate from around the world.",
-    "price": 19.99
+    "text_button_bg_color": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can
+create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": 19
   },
   {
     "id": 11,
-    "picture": "https://example.com/item11.jpg",
-    "title": "Digital Camera",
-    "category": "Electronics",
-    "category_bg_color": "#5cb85c",
+    "picture": "https://i.ibb.co/YdqtLJN/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg_color": "#79C23F33",
     "card_bg_color": "#79C23F26",
-    "text_button_bg_color": "#333333",
+    "text_button_bg_color": "#79C23F",
     "description": "Capture memories with precision using this digital camera.",
-    "price": 399.99
+    "price": 399
   },
   {
     "id": 12,
-    "picture": "https://example.com/item12.jpg",
-    "title": "Desk Organizer",
-    "category": "Home & Office",
-    "category_bg_color": "#5bc0de",
+    "picture": "https://i.ibb.co/s33S9bb/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg_color": "#F8714733",
     "card_bg_color": "#F8714726",
-    "text_button_bg_color": "#333333",
+    "text_button_bg_color": "#F87147",
     "description": "Keep your workspace tidy with this stylish desk organizer.",
-    "price": 29.99
+    "price": 29
   }
 ]
