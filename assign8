@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "picture": "https://example.com/item1.jpg",
+    "title": "Fancy Watch",
+    "category": "Fashion",
+    "category_bg_color": "#ff5733",
+    "card_bg_color": "#0052FF26",
+    "text_button_bg_color": "#333333",
+    "description": "A stylish and elegant wristwatch for any occasion.",
+    "price": 89.99
+  },
+  {
+    "id": 2,
+    "picture": "https://example.com/item2.jpg",
+    "title": "Wireless Headphones",
+    "category": "Electronics",
+    "category_bg_color": "#5cb85c",
+    "card_bg_color": "#FF444A26",
+    "text_button_bg_color": "#333333",
+    "description": "High-quality wireless headphones with noise-canceling technology.",
+    "price": 149.99
+  },
+  {
+    "id": 3,
+    "picture": "https://example.com/item3.jpg",
+    "title": "Vintage Leather Bag",
+    "category": "Fashion",
+    "category_bg_color": "#ff5733",
+    "card_bg_color": "#79C23F26",
+    "text_button_bg_color": "#333333",
+    "description": "A classic leather bag with a vintage charm.",
+    "price": 129.99
+  },
+  {
+    "id": 4,
+    "picture": "https://example.com/item4.jpg",
+    "title": "Smartphone",
+    "category": "Electronics",
+    "category_bg_color": "#5cb85c",
+    "card_bg_color": "#F8714726",
+    "text_button_bg_color": "#333333",
+    "description": "The latest smartphone with a high-resolution display and powerful camera.",
+    "price": 699.99
+  },
+  {
+    "id": 5,
+    "picture": "https://example.com/item5.jpg",
+    "title": "Fitness Tracker",
+    "category": "Sports & Fitness",
+    "category_bg_color": "#428bca",
+    "card_bg_color": "#F8714726",
+    "text_button_bg_color": "#333333",
+    "description": "Track your fitness goals with this advanced fitness tracker.",
+    "price": 79.99
+  },
+  {
+    "id": 6,
+    "picture": "https://example.com/item6.jpg",
+    "title": "Coffee Maker",
+    "category": "Home & Kitchen",
+    "category_bg_color": "#d9534f",
+    "card_bg_color": "#79C23F26",
+    "text_button_bg_color": "#333333",
+    "description": "Brew the perfect cup of coffee with this coffee maker.",
+    "price": 49.99
+  },
+  {
+    "id": 7,
+    "picture": "https://example.com/item7.jpg",
+    "title": "Laptop",
+    "category": "Electronics",
+    "category_bg_color": "#5cb85c",
+    "card_bg_color": "#FF444A26",
+    "text_button_bg_color": "#333333",
+    "description": "A high-performance laptop for work and entertainment.",
+    "price": 999.99
+  },
+  {
+    "id": 8,
+    "picture": "https://example.com/item8.jpg",
+    "title": "Sneakers",
+    "category": "Fashion",
+    "category_bg_color": "#ff5733",
+    "card_bg_color": "#0052FF26",
+    "text_button_bg_color": "#333333",
+    "description": "Stylish and comfortable sneakers for everyday wear.",
+    "price": 69.99
+  },
+  {
+    "id": 9,
+    "picture": "https://example.com/item9.jpg",
+    "title": "Bluetooth Speaker",
+    "category": "Electronics",
+    "category_bg_color": "#5cb85c",
+    "card_bg_color": "#0052FF26",
+    "text_button_bg_color": "#333333",
+    "description": "Portable Bluetooth speaker with rich sound quality.",
+    "price": 59.99
+  },
+  {
+    "id": 10,
+    "picture": "https://example.com/item10.jpg",
+    "title": "Gourmet Chocolate",
+    "category": "Food & Drinks",
+    "category_bg_color": "#f0ad4e",
+    "card_bg_color": "#FF444A26",
+    "text_button_bg_color": "#333333",
+    "description": "Indulge in the finest gourmet chocolate from around the world.",
+    "price": 19.99
+  },
+  {
+    "id": 11,
+    "picture": "https://example.com/item11.jpg",
+    "title": "Digital Camera",
+    "category": "Electronics",
+    "category_bg_color": "#5cb85c",
+    "card_bg_color": "#79C23F26",
+    "text_button_bg_color": "#333333",
+    "description": "Capture memories with precision using this digital camera.",
+    "price": 399.99
+  },
+  {
+    "id": 12,
+    "picture": "https://example.com/item12.jpg",
+    "title": "Desk Organizer",
+    "category": "Home & Office",
+    "category_bg_color": "#5bc0de",
+    "card_bg_color": "#F8714726",
+    "text_button_bg_color": "#333333",
+    "description": "Keep your workspace tidy with this stylish desk organizer.",
+    "price": 29.99
+  }
+]
