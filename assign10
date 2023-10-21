@@ -1,0 +1,254 @@
+[
+  {
+    "brand_name": "BMW",
+    "brand_image": "https://i.ibb.co/mFmQpdL/Bme.jpg",
+    "products": [
+      {
+        "image": "https://example.com/excella-product1.png",
+        "name": "Product 1",
+        "brand_name": "Excella",
+        "type": "Type A",
+        "price": 29.99,
+        "rating": 4.5,
+        "description": "A great product."
+      },
+      {
+        "image": "https://example.com/excella-product2.png",
+        "name": "Product 2",
+        "brand_name": "Excella",
+        "type": "Type B",
+        "price": 39.99,
+        "rating": 4.0,
+        "description": "Another great product."
+      },
+      {
+        "image": "https://example.com/excella-product3.png",
+        "name": "Product 3",
+        "brand_name": "Excella",
+        "type": "Type C",
+        "price": 49.99,
+        "rating": 4.2,
+        "description": "Yet another great product."
+      },
+      {
+        "image": "https://example.com/excella-product4.png",
+        "name": "Product 4",
+        "brand_name": "Excella",
+        "type": "Type D",
+        "price": 59.99,
+        "rating": 4.8,
+        "description": "The best product of all."
+      }
+    ]
+  },
+  {
+    "brand_name": "Carlsson",
+    "brand_image": "https://i.ibb.co/jhRKP3k/Carlsson-Logo.png",
+    "products": [
+      {
+        "image": "https://example.com/aquawave-productA.png",
+        "name": "Product A",
+        "brand_name": "AquaWave",
+        "type": "Type X",
+        "price": 19.99,
+        "rating": 4.4,
+        "description": "Aqua product A."
+      },
+      {
+        "image": "https://example.com/aquawave-productB.png",
+        "name": "Product B",
+        "brand_name": "AquaWave",
+        "type": "Type Y",
+        "price": 24.99,
+        "rating": 4.1,
+        "description": "Aqua product B."
+      },
+      {
+        "image": "https://example.com/aquawave-productC.png",
+        "name": "Product C",
+        "brand_name": "AquaWave",
+        "type": "Type Z",
+        "price": 29.99,
+        "rating": 4.3,
+        "description": "Aqua product C."
+      },
+      {
+        "image": "https://example.com/aquawave-productD.png",
+        "name": "Product D",
+        "brand_name": "AquaWave",
+        "type": "Type W",
+        "price": 34.99,
+        "rating": 4.6,
+        "description": "Aqua product D."
+      }
+    ]
+  },
+  {
+    "brand_name": "Toyota",
+    "brand_image": "https://i.ibb.co/2gcQkzM/images.png",
+    "products": [
+      {
+        "image": "https://example.com/technova-productX.png",
+        "name": "Product X",
+        "brand_name": "TechNova",
+        "type": "Type 1",
+        "price": 49.99,
+        "rating": 4.7,
+        "description": "TechNova product X."
+      },
+      {
+        "image": "https://example.com/technova-productY.png",
+        "name": "Product Y",
+        "brand_name": "TechNova",
+        "type": "Type 2",
+        "price": 34.99,
+        "rating": 4.4,
+        "description": "TechNova product Y."
+      },
+      {
+        "image": "https://example.com/technova-productZ.png",
+        "name": "Product Z",
+        "brand_name": "TechNova",
+        "type": "Type 3",
+        "price": 59.99,
+        "rating": 4.9,
+        "description": "TechNova product Z."
+      },
+      {
+        "image": "https://example.com/technova-productW.png",
+        "name": "Product W",
+        "brand_name": "TechNova",
+        "type": "Type 4",
+        "price": 44.99,
+        "rating": 4.2,
+        "description": "TechNova product W."
+      }
+    ]
+  },
+  {
+    "brand_name": "Ford",
+    "brand_image": "https://i.ibb.co/XJ8fBjc/Ford.jpg",
+    "products": [
+      {
+        "image": "https://example.com/ecoglow-product1.png",
+        "name": "EcoLight",
+        "brand_name": "EcoGlow",
+        "type": "LED",
+        "price": 19.99,
+        "rating": 4.5,
+        "description": "Eco-friendly light."
+      },
+      {
+        "image": "https://example.com/ecoglow-product2.png",
+        "name": "EcoLantern",
+        "brand_name": "EcoGlow",
+        "type": "Solar",
+        "price": 29.99,
+        "rating": 4.1,
+        "description": "Eco-friendly lantern."
+      },
+      {
+        "image": "https://example.com/ecoglow-product3.png",
+        "name": "EcoBulb",
+        "brand_name": "EcoGlow",
+        "type": "LED",
+        "price": 14.99,
+        "rating": 4.6,
+        "description": "Energy-efficient bulb."
+      },
+      {
+        "image": "https://example.com/ecoglow-product4.png",
+        "name": "EcoFan",
+        "brand_name": "EcoGlow",
+        "type": "Solar",
+        "price": 24.99,
+        "rating": 4.3,
+        "description": "Eco-friendly fan."
+      }
+    ]
+  },
+  {
+    "brand_name": "Tesla",
+    "brand_image": "https://i.ibb.co/s3G7FrR/tesls.jpg",
+    "products": [
+      {
+        "image": "https://example.com/ecoglow-product1.png",
+        "name": "EcoLight",
+        "brand_name": "EcoGlow",
+        "type": "LED",
+        "price": 19.99,
+        "rating": 4.5,
+        "description": "Eco-friendly light."
+      },
+      {
+        "image": "https://example.com/ecoglow-product2.png",
+        "name": "EcoLantern",
+        "brand_name": "EcoGlow",
+        "type": "Solar",
+        "price": 29.99,
+        "rating": 4.1,
+        "description": "Eco-friendly lantern."
+      },
+      {
+        "image": "https://example.com/ecoglow-product3.png",
+        "name": "EcoBulb",
+        "brand_name": "EcoGlow",
+        "type": "LED",
+        "price": 14.99,
+        "rating": 4.6,
+        "description": "Energy-efficient bulb."
+      },
+      {
+        "image": "https://example.com/ecoglow-product4.png",
+        "name": "EcoFan",
+        "brand_name": "EcoGlow",
+        "type": "Solar",
+        "price": 24.99,
+        "rating": 4.3,
+        "description": "Eco-friendly fan."
+      }
+    ]
+  },
+  {
+    "brand_name": "Mercedes-Benz",
+    "brand_image": "https://i.ibb.co/5Ywx1Vr/MEER.jpg",
+    "products": [
+      {
+        "image": "https://example.com/globotech-product1.png",
+        "name": "GloboConnect",
+        "brand_name": "GloboTech",
+        "type": "Connectivity",
+        "price": 49.99,
+        "rating": 4.7,
+        "description": "GloboTech connectivity solution."
+      },
+       {
+        "image": "https://example.com/globotech-product1.png",
+        "name": "GloboConnect",
+        "brand_name": "GloboTech",
+        "type": "Connectivity",
+        "price": 49.99,
+        "rating": 4.7,
+        "description": "GloboTech connectivity solution."
+      },
+    {
+        "image": "https://example.com/globotech-product1.png",
+        "name": "GloboConnect",
+        "brand_name": "GloboTech",
+        "type": "Connectivity",
+        "price": 49.99,
+        "rating": 4.7,
+        "description": "GloboTech connectivity solution."
+      },
+    {
+        "image": "https://example.com/globotech-product1.png",
+        "name": "GloboConnect",
+        "brand_name": "GloboTech",
+        "type": "Connectivity",
+        "price": 49.99,
+        "rating": 4.7,
+        "description": "GloboTech connectivity solution."
+       }
+   ]
+  }
+]
