@@ -4,40 +4,42 @@
     "brand_image": "https://i.ibb.co/mFmQpdL/Bme.jpg",
     "products": [
       {
-        "image": "https://example.com/excella-product1.png",
-        "name": "Product 1",
-        "brand_name": "Excella",
-        "type": "Type A",
+        "image": "https://i.ibb.co/DtvbjVb/BMW-1.jpg",
+        "name": "BMW",
+        "brand_name": "BMW i7 M70",
+        "type": "Car",
         "price": 29.99,
         "rating": 4.5,
-        "description": "A great product."
+        "description": "A great product.As of our last  update in September 2021, the BMW i7 70 is not a known or officially recognized model by BMW. BMW's "i" series typically includes electric and plug-in hybrid vehicles, such as the BMW i3 and i8. It's possible that a new model has been introduced since then, or you may be referring to a specific trim or variant of an existing BMW model. I recommend visiting the official BMW website or a reliable automotive news source for the most up-to-date information on BMW's product lineup."
       },
       {
-        "image": "https://example.com/excella-product2.png",
-        "name": "Product 2",
-        "brand_name": "Excella",
-        "type": "Type B",
+        "image": "https://i.ibb.co/s52tGS6/BMW-2.jpg",
+        "name": "BMW",
+        "brand_name": "BMW the iX",
+        "type": "Car",
         "price": 39.99,
         "rating": 4.0,
-        "description": "Another great product."
+        "description": "Another great product.The BMW iX is an all-electric luxury SUV produced by the German automaker BMW. It represents the brand's commitment to sustainable mobility and features advanced electric drivetrain technology, a spacious interior with cutting-edge tech, and a sleek, modern design. With a focus on eco-friendliness and high performance, the BMW iX offers impressive range, fast charging capabilities, and a premium driving experience for those seeking a zero-emission luxury vehicle."
       },
       {
-        "image": "https://example.com/excella-product3.png",
-        "name": "Product 3",
-        "brand_name": "Excella",
-        "type": "Type C",
+        "image": "https://i.ibb.co/qn8VTk7/BMW-3.jpg",
+        "name": "BMW",
+        "brand_name": "BMW The i7",
+        "type": "Car",
         "price": 49.99,
         "rating": 4.2,
-        "description": "Yet another great product."
+        "description": "Yet another great product.The BMW i7 is an electric luxury sedan that represents the pinnacle of BMW's commitment to sustainable mobility. It features advanced electric drivetrain technology, luxurious interior amenities, and a sleek design. With impressive performance and a focus on eco-friendliness, the i7 is a flagship model in BMW's electric vehicle lineup, offering a combination of high-end comfort and zero-emission driving."
       },
       {
-        "image": "https://example.com/excella-product4.png",
-        "name": "Product 4",
-        "brand_name": "Excella",
-        "type": "Type D",
+        "image": "https://i.ibb.co/NSdvHcF/BMW-4.jpg",
+        "name": "BMW",
+        "brand_name": "BMW The M-H1",
+        "type": "Car",
         "price": 59.99,
         "rating": 4.8,
-        "description": "The best product of all."
+        "description": "The best product of all.As of my last knowledge update in September 2021, BMW had not officially released a model called the "i5 M60." . BMW's "i" series typically refers to their electric or plug-in hybrid vehicles, such as the i3 or i8.
+
+                      To get accurate and up-to-date information about any new BMW models, I recommend visiting the official BMW website or contacting a BMW dealership for the latest details on their vehicle lineup."
       }
     ]
   },
@@ -46,40 +48,40 @@
     "brand_image": "https://i.ibb.co/jhRKP3k/Carlsson-Logo.png",
     "products": [
       {
-        "image": "https://example.com/aquawave-productA.png",
-        "name": "Product A",
-        "brand_name": "AquaWave",
-        "type": "Type X",
+        "image": "https://i.ibb.co/hKS4ZSh/carlsson-1.jpg",
+        "name": "Carlsson",
+        "brand_name": "Carlsson C25",
+        "type": "Car",
         "price": 19.99,
         "rating": 4.4,
-        "description": "Aqua product A."
+        "description": "The Carlsson C25 is a high-performance luxury sports car developed by the German tuning and automotive company, Carlsson. Based on the Mercedes-Benz SL, the C25 features extensive modifications to its exterior, interior, and engine. It boasts a powerful V12 engine producing significant horsepower, combined with advanced aerodynamics and a custom-designed interior for a unique and exhilarating driving experience."
       },
       {
-        "image": "https://example.com/aquawave-productB.png",
-        "name": "Product B",
-        "brand_name": "AquaWave",
-        "type": "Type Y",
+        "image": "https://i.ibb.co/vDvHTJW/carlsson-2.jpg",
+        "name": "Carlsson",
+        "brand_name": "Carlsson Aigner CK65",
+        "type": "Car",
         "price": 24.99,
         "rating": 4.1,
-        "description": "Aqua product B."
+        "description": "The Carlsson Aigner CK65 is a high-performance luxury car created through a collaboration between two renowned automotive tuning companies, Carlsson and Aigner. This exclusive and limited-edition vehicle is typically based on the Mercedes-Benz CL65 AMG platform. The CK65 is known for its powerful engine enhancements, luxurious interior upgrades, and unique exterior styling."
       },
       {
-        "image": "https://example.com/aquawave-productC.png",
-        "name": "Product C",
-        "brand_name": "AquaWave",
-        "type": "Type Z",
+        "image": "https://i.ibb.co/BjYCyZQ/carlsson-3.jpg",
+        "name": "Carlsson",
+        "brand_name": "Carlsson CK63",
+        "type": "Car",
         "price": 29.99,
         "rating": 4.3,
-        "description": "Aqua product C."
+        "description": "The Carlsson Aigner CK63 is a high-performance luxury car based on the Mercedes-Benz C63 AMG. This exclusive and limited-edition vehicle is the result of a collaboration between Carlsson, a renowned German tuning company, and Aigner, a luxury brand. The CK63 features a powerful V8 engine with enhanced performance, a unique and stylish exterior design, as well as a lavishly appointed interior with high-end materials and craftsmanship."
       },
       {
-        "image": "https://example.com/aquawave-productD.png",
+        "image": "https://i.ibb.co/BVzmK6S/carlsson-4.jpg",
         "name": "Product D",
-        "brand_name": "AquaWave",
-        "type": "Type W",
+        "brand_name": "Carlsson CK35",
+        "type": "Car",
         "price": 34.99,
         "rating": 4.6,
-        "description": "Aqua product D."
+        "description": "The Carlsson Aigner CK63 is a high-performance luxury car based on the Mercedes-Benz C63 AMG. This exclusive and limited-edition vehicle is the result of a collaboration between Carlsson, a renowned German tuning company, and Aigner, a luxury brand. The CK63 features a powerful V8 engine with enhanced performance, a unique and stylish exterior design, as well as a lavishly appointed interior with high-end materials and craftsmanship."
       }
     ]
   },
@@ -88,40 +90,40 @@
     "brand_image": "https://i.ibb.co/2gcQkzM/images.png",
     "products": [
       {
-        "image": "https://example.com/technova-productX.png",
-        "name": "Product X",
-        "brand_name": "TechNova",
-        "type": "Type 1",
+        "image": "hhttps://i.ibb.co/Qdh3Jt9/Toyota-11.jpg",
+        "name": "Toyota",
+        "brand_name": "Toyota Copen GR sport",
+        "type": "Sports car",
         "price": 49.99,
         "rating": 4.7,
-        "description": "TechNova product X."
+        "description": "The Toyota GR Sports, short for Gazoo Racing Sports, is a performance-oriented sub-brand of Toyota that focuses on enhancing the sportiness and driving dynamics of select Toyota models. These vehicles typically feature upgrades to their suspension, brakes, and engines, resulting in improved handling and acceleration. The GR Sports models also boast distinctive styling elements, often with aggressive body kits and unique interior touches."
       },
       {
-        "image": "https://example.com/technova-productY.png",
-        "name": "Product Y",
-        "brand_name": "TechNova",
-        "type": "Type 2",
+        "image": "https://i.ibb.co/pJvkqLD/Toyota-2.jpg",
+        "name": "Toyota",
+        "brand_name": "Toyota Crown",
+        "type": "Car",
         "price": 34.99,
         "rating": 4.4,
-        "description": "TechNova product Y."
+        "description": "TThe Toyota GR Crown is a high-performance sports sedan that combines the elegance and luxury of the Toyota Crown with the performance and sportiness of the Gazoo Racing (GR) brand. It features a powerful engine, sport-tuned suspension, and aggressive styling elements, making it a thrilling and dynamic option for those who seek both sophistication and driving excitement. ."
       },
       {
-        "image": "https://example.com/technova-productZ.png",
-        "name": "Product Z",
-        "brand_name": "TechNova",
-        "type": "Type 3",
+        "image": "https://i.ibb.co/kXkqrKT/Toyota-3.jpg",
+        "name": "Toyota ",
+        "brand_name": "Toyota c+pod",
+        "type": "C+ pod Car",
         "price": 59.99,
         "rating": 4.9,
-        "description": "TechNova product Z."
+        "description": "As of my last knowledge update in September 2021, I don't have specific information about a Toyota GR C+ Pod. It's possible that this is a model or concept that was introduced after that date or is a less widely known vehicle. I recommend checking the latest information on Toyota's official website or from reliable automotive sources for the most up-to-date and detailed information about the Toyota GR C+ Pod.."
       },
       {
-        "image": "https://example.com/technova-productW.png",
-        "name": "Product W",
-        "brand_name": "TechNova",
-        "type": "Type 4",
+        "image": "https://i.ibb.co/LpYB0Bb/Toyota-4.jpg",
+        "name": "Toyota",
+        "brand_name": "Toyota GR Yaris",
+        "type": "Duccer",
         "price": 44.99,
         "rating": 4.2,
-        "description": "TechNova product W."
+        "description": "The Toyota GR Yaris is a high-performance sports car developed by Toyota Gazoo Racing, the company's motorsport division. It's a compact and lightweight hatchback designed for exceptional driving dynamics and agility. The GR Yaris features all-wheel drive, a turbocharged engine, and advanced suspension, making it well-suited for both the road and the racetrack."
       }
     ]
   },
@@ -130,40 +132,40 @@
     "brand_image": "https://i.ibb.co/XJ8fBjc/Ford.jpg",
     "products": [
       {
-        "image": "https://example.com/ecoglow-product1.png",
-        "name": "EcoLight",
-        "brand_name": "EcoGlow",
-        "type": "LED",
+        "image": "https://i.ibb.co/w4R5JCV/Ford-1.jpg",
+        "name": "Ford",
+        "brand_name": "Ford Wildtrak",
+        "type": "Tracks",
         "price": 19.99,
         "rating": 4.5,
-        "description": "Eco-friendly light."
+        "description": "The Ford Wildtrak is a rugged and off-road-oriented variant of Ford's pickup trucks, such as the Ford Ranger and Ford F-150, depending on the market. It's designed for adventurous individuals who want a vehicle that can handle challenging terrain and outdoor activities. The Wildtrak typically features distinctive styling elements, advanced off-road capabilities, and a comfortable interior, making it a popular choice for those who require both utility and recreational versatility in their vehicle."
       },
       {
-        "image": "https://example.com/ecoglow-product2.png",
-        "name": "EcoLantern",
-        "brand_name": "EcoGlow",
-        "type": "Solar",
+        "image": "https://i.ibb.co/MZwYqtp/Ford-2.jpg",
+        "name": "Ford",
+        "brand_name": "Ford Expedetion",
+        "type": "SUVS",
         "price": 29.99,
         "rating": 4.1,
-        "description": "Eco-friendly lantern."
+        "description": "The Ford Expedition is a full-size SUV known for its spacious interior, powerful performance, and towing capabilities. It offers comfortable seating for up to eight passengers and is equipped with advanced technology features. The Expedition is a popular choice for families and travelers seeking a combination of versatility and ruggedness in their vehicle."
       },
       {
-        "image": "https://example.com/ecoglow-product3.png",
-        "name": "EcoBulb",
-        "brand_name": "EcoGlow",
-        "type": "LED",
+        "image": "https://i.ibb.co/xS8kJg5/Ford-3.jpg",
+        "name": "Ford",
+        "brand_name": "Ford Mustang",
+        "type": "Couples",
         "price": 14.99,
         "rating": 4.6,
-        "description": "Energy-efficient bulb."
+        "description": "The Ford Mustang is an iconic American sports car known for its powerful performance and timeless design. First introduced in 1964, the Mustang has become a symbol of the muscle car era. It typically features a sleek, fastback or convertible body style and offers a range of engine options, from efficient to high-performance V8s.."
       },
       {
-        "image": "https://example.com/ecoglow-product4.png",
-        "name": "EcoFan",
-        "brand_name": "EcoGlow",
-        "type": "Solar",
+        "image": "https://i.ibb.co/kyvLCH2/Ford-4.jpg",
+        "name": "Ford",
+        "brand_name": "Ford GI",
+        "type": "Couples",
         "price": 24.99,
         "rating": 4.3,
-        "description": "Eco-friendly fan."
+        "description": "The Ford GT is a high-performance sports car that pays homage to the legendary GT40, which won the 24 Hours of Le Mans race four times in the 1960s. This modern iteration features a sleek and aerodynamic design, a lightweight carbon fiber body, and a powerful V6 engine. With its exceptional speed and handling, the Ford GT is a limited-production supercar aimed at enthusiasts and collectors who appreciate its racing heritage and cutting-edge technology.."
       }
     ]
   },
@@ -171,42 +173,7 @@
     "brand_name": "Tesla",
     "brand_image": "https://i.ibb.co/s3G7FrR/tesls.jpg",
     "products": [
-      {
-        "image": "https://example.com/ecoglow-product1.png",
-        "name": "EcoLight",
-        "brand_name": "EcoGlow",
-        "type": "LED",
-        "price": 19.99,
-        "rating": 4.5,
-        "description": "Eco-friendly light."
-      },
-      {
-        "image": "https://example.com/ecoglow-product2.png",
-        "name": "EcoLantern",
-        "brand_name": "EcoGlow",
-        "type": "Solar",
-        "price": 29.99,
-        "rating": 4.1,
-        "description": "Eco-friendly lantern."
-      },
-      {
-        "image": "https://example.com/ecoglow-product3.png",
-        "name": "EcoBulb",
-        "brand_name": "EcoGlow",
-        "type": "LED",
-        "price": 14.99,
-        "rating": 4.6,
-        "description": "Energy-efficient bulb."
-      },
-      {
-        "image": "https://example.com/ecoglow-product4.png",
-        "name": "EcoFan",
-        "brand_name": "EcoGlow",
-        "type": "Solar",
-        "price": 24.99,
-        "rating": 4.3,
-        "description": "Eco-friendly fan."
-      }
+  
     ]
   },
   {
@@ -214,40 +181,40 @@
     "brand_image": "https://i.ibb.co/5Ywx1Vr/MEER.jpg",
     "products": [
       {
-        "image": "https://example.com/globotech-product1.png",
-        "name": "GloboConnect",
-        "brand_name": "GloboTech",
-        "type": "Connectivity",
+        "image": "https://i.ibb.co/ZdyzXZn/Mercedes-Benz-1.jpg",
+        "name": "Mercedes-Benz",
+        "brand_name": "Mercedes-Benz GLS-Class",
+        "type": "SUVS",
         "price": 49.99,
         "rating": 4.7,
-        "description": "GloboTech connectivity solution."
+        "description": "The Mercedes-Benz GLS-Class is a luxurious full-size SUV that combines elegant design, premium materials, and advanced technology. Known for its spacious and opulent interior, the GLS-Class offers seating for up to seven passengers and provides a smooth and comfortable ride. It's equipped with powerful engine options and a wide range of features, including the latest in safety and infotainment systems.."
       },
        {
-        "image": "https://example.com/globotech-product1.png",
-        "name": "GloboConnect",
-        "brand_name": "GloboTech",
-        "type": "Connectivity",
+        "image": "https://i.ibb.co/P16BR6Y/Mercedes-Benz-2.jpg",
+        "name": "Mercedes-Benz",
+        "brand_name": "Mercedes-Benz E-Class",
+        "type": "Wagons",
         "price": 49.99,
         "rating": 4.7,
-        "description": "GloboTech connectivity solution."
+        "description": "The Mercedes-Benz E-Class is a midsize luxury car known for its elegant design, advanced technology, and a balance of performance and comfort. It offers a range of body styles, including sedan, coupe, convertible, and wagon, appealing to a wide range of buyers. The E-Class features a luxurious interior with high-quality materials and cutting-edge infotainment systems.."
       },
     {
-        "image": "https://example.com/globotech-product1.png",
-        "name": "GloboConnect",
-        "brand_name": "GloboTech",
-        "type": "Connectivity",
+        "image": "https://i.ibb.co/pQdSCKw/mercedes-3.jpg",
+        "name": "Mercedes-Benz",
+        "brand_name": "Mercedes-Benz S-Class Cabriolet",
+        "type": "Convertibles",
         "price": 49.99,
         "rating": 4.7,
-        "description": "GloboTech connectivity solution."
+        "description": "The Mercedes-Benz S-Class Cabriolet is a luxury convertible car known for its exquisite design and exceptional performance. It belongs to the renowned S-Class family and offers a combination of opulence and cutting-edge technology. With a retractable soft top, powerful engines, and a meticulously crafted interior, it provides a top-down driving experience that is both stylish and comfortable.
       },
     {
-        "image": "https://example.com/globotech-product1.png",
-        "name": "GloboConnect",
-        "brand_name": "GloboTech",
-        "type": "Connectivity",
+        "image": "https://i.ibb.co/pQs0CT0/Mercedes-Benz-4.jpg",
+        "name": "Mercedes-Benz",
+        "brand_name": "Mercedes-Benz CLS-klasse",
+        "type": "Couples",
         "price": 49.99,
         "rating": 4.7,
-        "description": "GloboTech connectivity solution."
+        "description": "The Mercedes-Benz CLS-Klasse is a luxury executive car that combines elegant design with high-performance capabilities. Known for its sleek and distinctive four-door coupe styling, the CLS-Klasse offers a range of powerful engines and advanced technology features. It is designed to provide a blend of style, comfort, and performance for those seeking a sophisticated driving experience."
        }
    ]
   }
