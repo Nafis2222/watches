@@ -2,6 +2,9 @@
   {
     "brand_name": "BMW",
     "brand_image": "https://i.ibb.co/mFmQpdL/Bme.jpg",
+    "advertise1" : "https://i.ibb.co/6H7jXmt/bmw-adver-3.jpg ",
+    "advertise2" : "https://i.ibb.co/WKddrYL/bmw-adver2.jpg ",
+    "advertise3" : " https://i.ibb.co/vLyNgsD/bmw-adver-4.jpg",
     "products": [
       {
         "image": "https://i.ibb.co/DtvbjVb/BMW-1.jpg",
@@ -46,6 +49,9 @@
   {
     "brand_name": "Carlsson",
     "brand_image": "https://i.ibb.co/jhRKP3k/Carlsson-Logo.png",
+    "advertise1" : " https://i.ibb.co/kyLr4c9/carlsson-adver-3.jpg  ",
+    "advertise2" : " https://i.ibb.co/HqbCW9X/carlsson-adver-1.jpg ",
+    "advertise3" : " https://i.ibb.co/qgztpwx/carlsson-adver-2.jpg ",
     "products": [
       {
         "image": "https://i.ibb.co/hKS4ZSh/carlsson-1.jpg",
@@ -88,6 +94,9 @@
   {
     "brand_name": "Toyota",
     "brand_image": "https://i.ibb.co/2gcQkzM/images.png",
+    "advertise1" : " https://i.ibb.co/gwVDVCt/toyota-adver-3.jpg  ",
+    "advertise2" : " https://i.ibb.co/Jr4Wj7q/toyota-adver-1.jpg  ",
+    "advertise3" : "  https://i.ibb.co/2Sk435s/toyota-adver-2.jpg ",
     "products": [
       {
         "image": "hhttps://i.ibb.co/Qdh3Jt9/Toyota-11.jpg",
@@ -130,6 +139,9 @@
   {
     "brand_name": "Ford",
     "brand_image": "https://i.ibb.co/XJ8fBjc/Ford.jpg",
+    "advertise1" : " https://i.ibb.co/vZ9DZ3H/Ford-adver-1.jpg ",
+    "advertise2" : " https://i.ibb.co/GHFqPVm/Ford-adver-2.jpg ",
+    "advertise3" : " https://i.ibb.co/dB7ZzP0/Ford-adver-3.jpg  ",
     "products": [
       {
         "image": "https://i.ibb.co/w4R5JCV/Ford-1.jpg",
@@ -172,6 +184,9 @@
   {
     "brand_name": "Tesla",
     "brand_image": "https://i.ibb.co/s3G7FrR/tesls.jpg",
+    "advertise1" : " https://i.ibb.co/cbNrZnk/Tesla-adver-1.jpg ",
+    "advertise2" : " https://i.ibb.co/bXXmNhr/Tesla-adver-2.jpg  ",
+    "advertise3" : " https://i.ibb.co/HT12kth/Tesla-adver-3.jpg  ",
     "products": [
   
     ]
@@ -179,6 +194,9 @@
   {
     "brand_name": "Mercedes-Benz",
     "brand_image": "https://i.ibb.co/5Ywx1Vr/MEER.jpg",
+    "advertise1" : " https://i.ibb.co/BsLKhny/mercedes-adver-1.jpg ",
+    "advertise2" : " https://i.ibb.co/CtHSg53/mercedes-adver-2.jpg ",
+    "advertise3" : " https://i.ibb.co/KmYgz4V/mercedes-adver-3.jpg  ",
     "products": [
       {
         "image": "https://i.ibb.co/ZdyzXZn/Mercedes-Benz-1.jpg",
