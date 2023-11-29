@@ -1,5 +1,4 @@
-{
-  "tour": [
+[
     {
       "img": "https://i.ibb.co/GCKqYh8/gettyimages-483629308-612x612.jpg",
       "tour_type": "Adventure",
@@ -208,4 +207,4 @@
       }
     }
   ]
-}
+
