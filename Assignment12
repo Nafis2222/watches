@@ -1,0 +1,211 @@
+{
+  "tour": [
+    {
+      "img": "https://i.ibb.co/GCKqYh8/gettyimages-483629308-612x612.jpg",
+      "tour_type": "Adventure",
+      "tour_title": "Mountain Expedition",
+      "price": 1500,
+      "details": {
+        "plan": [
+          {
+            "day": 1,
+            "title": "Arrival and Acclimatization",
+            "description": "Arrive at the base camp and acclimate to the high altitude. Briefing with the guide and preparation for the trek."
+          },
+          {
+            "day": 2,
+            "title": "Trek to Base Camp",
+            "description": "Embark on a challenging trek to the base camp. Enjoy scenic views and set up camp for the night."
+          },
+          {
+            "day": 3,
+            "title": "Summit Attempt",
+            "description": "Begin the ascent to the summit. Reach the peak and savor the breathtaking panoramic views. Descend to the base camp."
+          },
+          {
+            "day": 4,
+            "title": "Exploration Day",
+            "description": "Explore the surrounding areas, discover hidden gems, and relax in the midst of the mountainous landscape."
+          },
+          {
+            "day": 5,
+            "title": "Return and Departure",
+            "description": "Descend from the mountains, reach the starting point, and conclude the expedition. Depart for home."
+          }
+        ],
+        "images": [
+          {
+            "url": "https://i.ibb.co/52Kp2SR/gettyimages-597806063-612x612.jpg",
+            "caption": "Base Camp Arrival"
+          },
+          {
+            "url": "https://i.ibb.co/pXfp5H4/gettyimages-520295685-612x612.jpg",
+            "caption": "Scenic Trek Views"
+          },
+          {
+            "url": "https://i.ibb.co/hLxMpwW/gettyimages-135828298-612x612.jpg",
+            "caption": "Summit Conquest"
+          },
+          {
+            "url": "https://i.ibb.co/bd86Yyk/gettyimages-636676918-612x612.jpg",
+            "caption": "Exploration Day"
+          },
+          {
+            "url": "https://i.ibb.co/FXykrZj/gettyimages-484778696-612x612.jpg",
+            "caption": "Departure Memories"
+          }
+        ],
+        "about": "Experience the thrill of a lifetime with our Mountain Expedition tour. Climb the highest peaks, explore breathtaking landscapes, and challenge your adventurous spirit.",
+        "tour_guide": {
+          "name": "John Explorer",
+          "profile_pic": "hhttps://i.ibb.co/NnqxMcz/images-9.jpg",
+          "contact_details": {
+            "email": "john@example.com",
+            "phone": "+1234567890"
+          },
+          "education": "Bachelor's Degree in Adventure Tourism",
+          "skills": ["Mountaineering", "Navigation", "First Aid"],
+          "work_experience": "10 years as a professional mountain guide"
+        }
+      }
+    },
+    {
+      "img": "https://i.ibb.co/SsYPk0G/download-1.jpg",
+      "tour_type": "Cultural",
+      "tour_title": "Historical City Tour",
+      "price": 800,
+      "details": {
+        "plan": [
+          {
+            "day": 1,
+            "title": "Arrival and Orientation",
+            "description": "Arrive at the city and get oriented to the historical sites. Briefing with the guide and introduction to the cultural journey."
+          },
+          {
+            "day": 2,
+            "title": "Museum and Landmark Day",
+            "description": "Visit renowned museums and landmarks, exploring the city's rich cultural and historical heritage."
+          },
+          {
+            "day": 3,
+            "title": "Local Markets and Artisan Shops",
+            "description": "Explore vibrant local markets and artisan shops, experiencing the city's unique arts and crafts scene."
+          },
+          {
+            "day": 4,
+            "title": "Architectural Wonders Tour",
+            "description": "Visit iconic architectural wonders, learning about the city's unique blend of historical and modern structures."
+          },
+          {
+            "day": 5,
+            "title": "Departure with Cultural Memories",
+            "description": "Conclude the tour with lasting cultural memories. Depart for home with a deeper appreciation for history and culture."
+          }
+        ],
+        "images": [
+          {
+            "url": "https://i.ibb.co/Vw8kSjL/download-2.jpg",
+            "caption": "Historical Site Exploration"
+          },
+          {
+            "url": "https://i.ibb.co/3rVnjVB/images-11.jpg",
+            "caption": "Museum Discoveries"
+          },
+          {
+            "url": "https://i.ibb.co/wrrrh3R/images-12.jpg",
+            "caption": "Local Market Experience"
+          },
+          {
+            "url": "https://i.ibb.co/yWb2tXb/images-13.jpg",
+            "caption": "Architectural Wonders"
+          },
+          {
+            "url": "https://i.ibb.co/JxX67f0/images-14.jpg",
+            "caption": "Cultural Farewell"
+          }
+        ],
+        "about": "Immerse yourself in the rich cultural heritage of ancient cities with our Historical City Tour. Explore historical landmarks, museums, and vibrant local markets.",
+        "tour_guide": {
+          "name": "Maria Historian",
+          "profile_pic": "https://i.ibb.co/7kQr15W/images-10.jpg",
+          "contact_details": {
+            "email": "maria@example.com",
+            "phone": "+9876543210"
+          },
+          "education": "Master's Degree in Cultural Heritage Management",
+          "skills": ["Cultural Interpretation", "Language Proficiency", "Archaeology"],
+          "work_experience": "8 years as a cultural tour guide"
+        }
+      }
+    },
+    {
+      "img": "https://i.ibb.co/w4gWKrV/images-15.jpg",
+      "tour_type": "Beach",
+      "tour_title": "Tropical Paradise Escape",
+      "price": 1200,
+      "details": {
+        "plan": [
+          {
+            "day": 1,
+            "title": "Arrival and Beachside Relaxation",
+            "description": "Arrive at the tropical paradise and unwind with a day of beachside relaxation. Briefing with the guide about the upcoming adventures."
+          },
+          {
+            "day": 2,
+            "title": "Snorkeling and Coral Exploration",
+            "description": "Experience the vibrant underwater world with a day of snorkeling and coral exploration. Discover marine life and colorful coral reefs."
+          },
+          {
+            "day": 3,
+            "title": "Island Exploration",
+            "description": "Explore nearby islands, discovering hidden gems, and enjoying the tropical landscapes and crystal-clear waters."
+          },
+          {
+            "day": 4,
+            "title": "Cultural Beach Activities",
+            "description": "Engage in cultural beach activities, from traditional dance performances to local cuisine tastings, enriching the beach experience."
+          },
+          {
+            "day": 5,
+            "title": "Farewell and Departure",
+            "description": "Bid farewell to the tropical paradise. Depart with memories of serene beaches and a rejuvenated spirit."
+          }
+        ],
+        "images": [
+          {
+            "url": "https://i.ibb.co/R0dj4mS/images-16.jpg",
+            "caption": "Beachside Relaxation"
+          },
+          {
+            "url": "https://i.ibb.co/WxBWKdY/images-17.jpg",
+            "caption": "Snorkeling Adventure"
+          },
+          {
+            "url": "https://i.ibb.co/dWkM7wB/images-18.jpg",
+            "caption": "Island Discovery"
+          },
+          {
+            "url": "https://i.ibb.co/dBJTbhc/images-19.jpg",
+            "caption": "Cultural Beach Activities"
+          },
+          {
+            "url": "https://i.ibb.co/gd17YhJ/images-20.jpg",
+            "caption": "Farewell Sunset"
+          }
+        ],
+        "about": "Relax and rejuvenate on the pristine beaches of our Tropical Paradise Escape tour. Enjoy the sun, sand, and crystal-clear waters in a tropical paradise.",
+        "tour_guide": {
+          "name": "Carlos Beachcomber",
+          "profile_pic": "https://i.ibb.co/tLN6hRX/images-8.jpg",
+          "contact_details": {
+            "email": "carlos@example.com",
+            "phone": "+1122334455"
+          },
+          "education": "Bachelor's Degree in Marine Biology",
+          "skills": ["Scuba Diving", "Ecotourism", "Environmental Conservation"],
+          "work_experience": "12 years as a beach tour guide"
+        }
+      }
+    }
+  ]
+}
