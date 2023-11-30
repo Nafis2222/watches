@@ -54,7 +54,28 @@
             "caption": "Departure Memories"
           }
         ],
-        "about": "Experience the thrill of a lifetime with our Mountain Expedition tour. Climb the highest peaks, explore breathtaking landscapes, and challenge your adventurous spirit.",
+       "about": [ {
+          "title": "Costarica, panama",
+          "picture": "https://i.ibb.co/y4gbtF8/images-22.jpg",
+          "rating": 4.8,
+          "cost": 1300,
+          "description": "Embark on a thrilling adventure with our Mountain Expedition tour. Conquer peaks, experience breathtaking landscapes, and challenge your adventurous spirit. This 7-day expedition is led by experienced guides, ensuring your safety as you create memories to last a lifetime."
+       } ,
+      {
+          "title": "Peyto Lake of Bannf",
+          "picture": "https://i.ibb.co/sV7bC1q/download-3.jpg",
+          "rating": 4.8,
+          "cost": 850,
+          "description": "Immerse yourself in the rich cultural heritage of ancient cities with our Historical City Tour. Explore historical landmarks, museums, and vibrant local markets. This 5-day cultural journey is led by knowledgeable guides, offering an enriching experience that will leave you with lasting memories."
+       },
+      {
+          "title": "Sailing Pacific",
+          "picture": "https://i.ibb.co/8rHtc7z/download-4.jpg",
+          "rating": 4.8,
+          "cost": 700,
+          "description": "Relax and rejuvenate on the pristine beaches of our Tropical Paradise Escape tour. Enjoy the sun, sand, and crystal-clear waters in a tropical paradise. This 10-day beach retreat offers the perfect blend of relaxation and adventure, led by our experienced beach guide."
+       }
+      ] ,
         "tour_guide": {
           "name": "John Explorer",
           "profile_pic": "hhttps://i.ibb.co/NnqxMcz/images-9.jpg",
@@ -123,7 +144,29 @@
             "caption": "Cultural Farewell"
           }
         ],
-        "about": "Immerse yourself in the rich cultural heritage of ancient cities with our Historical City Tour. Explore historical landmarks, museums, and vibrant local markets.",
+          "about": [ 
+        {
+          "title": "Cuba ,Havana",
+          "picture": "https://i.ibb.co/y4gbtF8/images-22.jpg",
+          "rating": 4.8,
+          "cost": 1500,
+          "description": "Embark on a thrilling adventure with our Mountain Expedition tour. Conquer peaks, experience breathtaking landscapes, and challenge your adventurous spirit. This 7-day expedition is led by experienced guides, ensuring your safety as you create memories to last a lifetime."
+       } ,
+      {
+          "title": "Peru Bolivia",
+          "picture": "https://i.ibb.co/sV7bC1q/download-3.jpg",
+          "rating": 4.8,
+          "cost": 1700,
+          "description": "Immerse yourself in the rich cultural heritage of ancient cities with our Historical City Tour. Explore historical landmarks, museums, and vibrant local markets. This 5-day cultural journey is led by knowledgeable guides, offering an enriching experience that will leave you with lasting memories."
+       },
+      {
+              "title": "Kahmandu, Nepal",
+          "picture": "https://i.ibb.co/8rHtc7z/download-4.jpg",
+          "rating": 4.8,
+          "cost": 1100,
+          "description": "Relax and rejuvenate on the pristine beaches of our Tropical Paradise Escape tour. Enjoy the sun, sand, and crystal-clear waters in a tropical paradise. This 10-day beach retreat offers the perfect blend of relaxation and adventure, led by our experienced beach guide."
+       }
+      ] ,
         "tour_guide": {
           "name": "Maria Historian",
           "profile_pic": "https://i.ibb.co/7kQr15W/images-10.jpg",
@@ -192,7 +235,29 @@
             "caption": "Farewell Sunset"
           }
         ],
-        "about": "Relax and rejuvenate on the pristine beaches of our Tropical Paradise Escape tour. Enjoy the sun, sand, and crystal-clear waters in a tropical paradise.",
+  "about": [ 
+       {
+          "title": "Cox's Bazar",
+          "picture": "https://i.ibb.co/2tkbYVZ/download-5.jpg",
+          "rating": 4.8,
+          "cost": 500,
+          "description": "Embark on a thrilling adventure with our Mountain Expedition tour. Conquer peaks, experience breathtaking landscapes, and challenge your adventurous spirit. This 7-day expedition is led by experienced guides, ensuring your safety as you create memories to last a lifetime."
+       } ,
+      {
+          "title": "Newyork, America",
+          "picture": "https://i.ibb.co/fdxMCZ5/download-6.jpg",
+          "rating": 4.8,
+          "cost": 2100,
+          "description": "Immerse yourself in the rich cultural heritage of ancient cities with our Historical City Tour. Explore historical landmarks, museums, and vibrant local markets. This 5-day cultural journey is led by knowledgeable guides, offering an enriching experience that will leave you with lasting memories."
+       },
+      {
+          "title": "Keptown, South Africa",
+          "picture": "https://i.ibb.co/GkKCK6Q/download-7.jpg",
+          "rating": 4.8,
+          "cost": 1200,
+          "description": "Relax and rejuvenate on the pristine beaches of our Tropical Paradise Escape tour. Enjoy the sun, sand, and crystal-clear waters in a tropical paradise. This 10-day beach retreat offers the perfect blend of relaxation and adventure, led by our experienced beach guide."
+       }
+      ] ,
         "tour_guide": {
           "name": "Carlos Beachcomber",
           "profile_pic": "https://i.ibb.co/tLN6hRX/images-8.jpg",
