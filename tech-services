@@ -1,0 +1,75 @@
+[
+  {
+    "serviceImage": "https://i.ibb.co/b2KGxMv/download-14.jpg",
+    "serviceName": "Appliance Repair",
+    "serviceDescription": "Expert repair services for all home appliances.",
+    "serviceProvider": {
+      "name": "John Smith",
+      "providerEmail": "john@email.com",
+      "image": "https://i.ibb.co/1mrkyjN/download-15.jpg"
+    },
+    
+    "servicePrice": 150,
+    "serviceArea": "Citywide"
+  },
+  {
+    "serviceImage": "https://i.ibb.co/ChC8xsb/download-16.jpg",
+    "serviceName": "Computer Repair",
+    "serviceDescription": "Fast and reliable computer repair services for all brands.",
+    "serviceProvider": {
+      "name": "Emily Davis",
+      "providerEmail": "emily12@email.com",
+      "image": "https://i.ibb.co/dLhZqyX/images-29.jpg"
+    },
+    "servicePrice": 80,
+    "serviceArea": "Metropolitan Area"
+  },
+  {
+    "serviceImage": "https://i.ibb.co/YpX7zfv/download-17.jpg",
+    "serviceName": "Auto Glass Repair",
+    "serviceDescription": "Professional auto glass repair for all types of vehicles.",
+    "serviceProvider": {
+      "name": "Michael Johnson",
+      "providerEmail": "michsal4@email.com",
+      "image": "https://i.ibb.co/LtqTNSk/images-30.jpg"
+    },
+    "servicePrice": 200,
+    "serviceArea": "Suburban Neighborhoods"
+  },
+  {
+    "serviceImage": "https://i.ibb.co/z89dqfm/download-18.jpg",
+    "serviceName": "Plumbing Repair",
+    "serviceDescription": "Emergency plumbing repairs to fix leaks and clogs.",
+    "serviceProvider": {
+      "name": "Sarah Miller",
+      "providerEmail": "sarah7@email.com",
+      "image": "https://i.ibb.co/dbdSszm/images-31.jpg"
+    },
+    "servicePrice": 120,
+    "serviceArea": "Citywide"
+  },
+  {
+    "serviceImage": "https://i.ibb.co/JpYdF4X/download-19.jpg",
+    "serviceName": "Mobile Phone Repair",
+    "serviceDescription": "Fixing cracked screens and hardware issues for smartphones.",
+    "serviceProvider": {
+      "name": "Daniel Brown",
+     "providerEmail": "daniel678@email.com",
+      "image": "https://i.ibb.co/RNhRvL7/images-32.jpg"
+    },
+    "servicePrice": 70,
+    "serviceArea": "Local Shops"
+  },
+  {
+    "serviceImage": "https://i.ibb.co/yVd03z4/download-20.jpg",
+    "serviceName": "HVAC System Repair",
+    "serviceDescription": "Heating and cooling system repairs for home comfort.",
+    "serviceProvider": {
+      "name": "Olivia White",
+      "providerEmail": "olivia67@email.com",
+      "image": "https://i.ibb.co/JjyLn2p/images-33.jpg"
+    },
+    "servicePrice": 250,
+    "serviceArea": "Regional Services"
+  }
+]
